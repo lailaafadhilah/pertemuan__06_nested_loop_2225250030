@@ -1,7 +1,6 @@
 # Latihan 3 - Jumlah Per Baris
-# Loop luar menentukan baris.
-# Loop dalam menghitung hasil perkalian pada setiap baris.
-# total_baris direset untuk setiap baris.
+# Menggunakan nested loop untuk menghitung jumlah
+# hasil perkalian pada setiap baris.
 
 for i in range(1, 5):
     total_baris = 0
